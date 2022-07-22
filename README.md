@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kabilduke
-- 👀 I’m interested in Creativity
+- 👀 I’m interested in Destruction
 - 🌱 I’m currently learning App Development
 - 💞️ I’m looking to collaborate on Android App Design
 - 📫 How to reach me ca.kabil12@gmail.com
