@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kabilduke
 - 👀 I’m interested in Destruction
-- 🌱 I’m currently learning App Development
-- 💞️ I’m looking to collaborate on Android App Design
+- 🌱 I’m currently learning Frontend Developer
+- 💞️ I’m looking to collaborate on web Designing!
 - 📫 How to reach me ca.kabil12@gmail.com
 
 <!---
