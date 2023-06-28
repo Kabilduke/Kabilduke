@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kabilduke
-- 👀 I’m interested in Destruction
+- 👀 I’m interested in Creation
 - 🌱 I’m currently learning Frontend Developer
 - 💞️ I’m looking to collaborate on web Designing!
 - 📫 How to reach me ca.kabil12@gmail.com
