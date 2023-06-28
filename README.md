@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kabilduke
 - 👀 I’m interested in Creation
-- 🌱 I’m currently learning Frontend Developer
+- 🌱 I’m currently learning Artificial Intelligence and Data Science
 - 💞️ I’m looking to collaborate on web Designing!
 - 📫 How to reach me ca.kabil12@gmail.com
 
