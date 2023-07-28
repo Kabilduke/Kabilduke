@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kabilduke
-- 👀 I’m interested in Data Detective
+- 👀 I’m a Data Detective
 - 🌱 I’m currently learning Artificial Intelligence and Data Science
 - 💞️ I’m looking to collaborate on web Designing!
 - 📫 How to reach me ca.kabil12@gmail.com
