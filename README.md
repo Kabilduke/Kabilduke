@@ -11,7 +11,7 @@ Profile animaiton
 - 👋 Hi, I’m @Kabilduke
 - 👀 I’m a Data Detective
 - 🌱 I’m currently learning Artificial Intelligence and Data Science
-- 💞️ I’m looking to collaborate on web Designing!
+- 💞️ I’m looking to collaborate on Neural Network
 - 📫 How to reach me ca.kabil12@gmail.com
 
 
