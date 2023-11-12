@@ -8,18 +8,17 @@ Profile animaiton
 
 # Hi there! 👋
 
-## Contact
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kabil-c-a-223331171/)
-- Kaggle: [Your Kagglw Handle](https://www.kaggle.com/kabil007)
-- Figma: [Your Figma Handle](figma.com/@KABIL)
-
-
-
 - 👋 Hi, I’m @Kabilduke
 - 👀 I’m a Data Detective
 - 🌱 I’m currently learning Artificial Intelligence and Data Science
 - 💞️ I’m looking to collaborate on web Designing!
 - 📫 How to reach me ca.kabil12@gmail.com
+
+
+
+- LinkedIn: (https://www.linkedin.com/in/kabil-c-a-223331171/)
+- Kaggle: (https://www.kaggle.com/kabil007)
+- Figma: (figma.com/@KABIL)
 
 <!---
 Kabilduke/Kabilduke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
