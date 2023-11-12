@@ -18,7 +18,7 @@ Profile animaiton
 
 - LinkedIn: (https://www.linkedin.com/in/kabil-c-a-223331171/)
 - Kaggle: (https://www.kaggle.com/kabil007)
-- Figma: https://www.figma.com/@kabil
+- Figma: (https://www.figma.com/@kabil)
 
 <!---
 Kabilduke/Kabilduke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
