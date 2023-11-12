@@ -1,3 +1,27 @@
+<!---
+Profile animaiton
+--->
+
+![Visitor Count](https://profile-counter.glitch.me/{Kabilduke}/count.svg)
+
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update README
+        run: echo $(( $(curl -s https://profile-counter.glitch.me/${{ github.repository_owner }}/count.svg | grep -oP 'title="Visitors"' | wc -l) + 1 )) > README.md
+
+
 - 👋 Hi, I’m @Kabilduke
 - 👀 I’m a Data Detective
 - 🌱 I’m currently learning Artificial Intelligence and Data Science
