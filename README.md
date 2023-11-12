@@ -8,9 +8,10 @@ Profile animaiton
 
 # Hi there! 👋
 
-This is my GitHub profile README. Check out this repo:
-
-![Heartbeat Animation](heartbeat.svg)
+## Contact
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kabil-c-a-223331171/)
+- Kaggle: [Your Kagglw Handle](https://www.kaggle.com/kabil007)
+- Figma: [Your Figma Handle](figma.com/@KABIL)
 
 
 
