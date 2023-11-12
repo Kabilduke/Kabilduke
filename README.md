@@ -2,24 +2,16 @@
 Profile animaiton
 --->
 
-![Visitor Count](https://profile-counter.glitch.me/{Kabilduke}/count.svg)
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M21 12a8.65 8.65 0 0 0-1.79-4.86L12 2 4.79 7.14A8.65 8.65 0 0 0 3 12a8.65 8.65 0 0 0 1.79 4.86L12 22l7.21-5.14A8.65 8.65 0 0 0 21 12z"/>
+</svg>
 
-name: Update README
+# Hi there! 👋
 
-on:
-  push:
-    branches:
-      - main
+This is my GitHub profile README. Check out this repo:
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+![Heartbeat Animation](heartbeat.svg)
 
-      - name: Update README
-        run: echo $(( $(curl -s https://profile-counter.glitch.me/${{ github.repository_owner }}/count.svg | grep -oP 'title="Visitors"' | wc -l) + 1 )) > README.md
 
 
 - 👋 Hi, I’m @Kabilduke
