@@ -4,7 +4,7 @@
 
 ### Bio:
 
-K A B I L is a talented software engineer with expertise in Data Science, Data Engineering, Python, MLOps, Java, and Frontend development.
+K A B I L is a talented software engineer with expertise in Data Science, Data Engineering, Python, MLOps, Neural Networks, and Frontend development.
             
 
 ### My Stack:
