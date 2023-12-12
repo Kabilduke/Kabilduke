@@ -17,13 +17,6 @@ K A B I L is a talented software engineer with expertise in Data Science, Data E
 
 ### Links:
 
-### <a href="https://www.linkedin.com/in/k-a-b-i-l-223331171/">linkedin</a> | <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC67HGEOkHJO0-lF6XO2PGTQ">youtube</a> | <a href="https://www.github.com/Kabilduke">github</a>
+### <a href="https://www.linkedin.com/in/k-a-b-i-l-223331171/">linkedin</a> | <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC67HGEOkHJO0-lF6XO2PGTQ">youtube</a> | <a href="https://www.kaggle.com/kabil007">Kaggle</a>
 
 ## 👇 Few things about me
-
-
-<div>
-
-            
-</div>
-
