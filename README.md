@@ -21,4 +21,6 @@ Talented Data Scienctist with expertise in Data Science, Data Engineering, Pytho
 
 ### <a href="https://www.linkedin.com/in/k-a-b-i-l-223331171/">linkedin</a> | <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC67HGEOkHJO0-lF6XO2PGTQ">youtube</a> | <a href="https://www.kaggle.com/kabil007">Kaggle</a>
 
+[![An image of @kabilduke's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kabilduke)](https://holopin.io/@kabilduke)
+
 ## 👇 Few things about me
