@@ -24,6 +24,10 @@ Talented Data Scienctist with expertise in Data Science, Data Engineering, Pytho
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-a-b-i-l-223331171/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/feeds/videos.xml?channel_id=UC67HGEOkHJO0-lF6XO2PGTQ)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/kabil007)
+[![Figma](https://img.shields.io/badge/Figma-8A63B4?style=flat&logo=Figma&logoColor=white)](https://figma.com/@KABIL)
+
+
+
 
 
 [![An image of @kabilduke's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kabilduke)](https://holopin.io/@kabilduke)
