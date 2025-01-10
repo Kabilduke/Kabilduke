@@ -1,7 +1,9 @@
 
 # Hello there! 👋
 ![](https://komarev.com/ghpvc/?username=MelakuDemeke)
-<img src="https://img.shields.io/badge/%20Available for Freelance Work-greenyellow" />
+<a href="https://58e6c476.portfolio-czv.pages.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/%20Available for Freelance Work-greenyellow" alt="Available for Freelance Work" />
+</a>
 
 ### Bio:
 
