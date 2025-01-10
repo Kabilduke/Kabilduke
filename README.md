@@ -23,6 +23,7 @@ Talented Data Scienctist with expertise in Data Science, Data Engineering, Pytho
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/feeds/videos.xml?channel_id=UC67HGEOkHJO0-lF6XO2PGTQ)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/kabil007)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/@KABIL)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/kabil.c.a/vizzes)
 [![Figma](https://img.shields.io/badge/Figma-8A63B4?style=flat&logo=Figma&logoColor=white)](https://www.figma.com/@KABIL)
 
 
